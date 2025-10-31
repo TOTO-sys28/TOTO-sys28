@@ -42,13 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toto-sys28&layout=compact&theme=radical" alt="langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=toto-sys28&theme=radical&hide_border=false" alt="streaks" />
-</p>
+
 
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/toto-sys28/toto-sys28/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
