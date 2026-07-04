@@ -1,24 +1,12 @@
-<table>
-<tr>
-<td>
 
 ```text
-┌──────────────────────────────┐
-│  TOTO-sys28@github            │
-├──────────────────────────────┤
-│  OS        : Linux            │
-│  Focus     : Backend • Systems│
-│  Languages : C • C++ • Python │
-│  Editor    : Neovim           │
-│  User      : Ajeeb            │
-└──────────────────────────────┘
+OS         Linux
+Editor     Neovim
+Shell      zsh
+Languages  C • C++ • Python
+Focus      Backend • Systems
 ```
 
-</td>
-<td>
-
-<img src="https://art.pixilart.com/original/sr2f2008a7336aws3.gif" width="220">
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://art.pixilart.com/original/sr2f2008a7336aws3.gif" width="420"/>
+</p>
